@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :response
 # @Date :2023/7/20 02:24
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 响应类封装
 -------------------------------------------------
 """

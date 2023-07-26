@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :database
 # @Date :2023/7/5 20:25
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc：SQLAlchemy 部分
 -------------------------------------------------
 """

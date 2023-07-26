@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :ApiRouter
 # @Date :2023/7/5 20:23
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 路由文件
 -------------------------------------------------
 """

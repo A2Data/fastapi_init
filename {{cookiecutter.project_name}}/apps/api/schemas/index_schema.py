@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :index_schema
 # @Date :2023/7/19 11:24
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc：
 -------------------------------------------------
 """

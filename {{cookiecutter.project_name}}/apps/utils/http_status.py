@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :status
 # @Date :2023/7/20 16:22
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 状态码
 -------------------------------------------------
 """

@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :Application
 # @Date :2023/7/6 01:45
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 应用程序
 -------------------------------------------------
 """

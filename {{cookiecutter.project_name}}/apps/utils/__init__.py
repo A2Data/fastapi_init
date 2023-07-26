@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :__init__.py
 # @Date :2023/7/6 01:29
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc：
 -------------------------------------------------
 """

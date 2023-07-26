@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :logger
 # @Date :2023/7/6 02:36
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 日志处理类
 -------------------------------------------------
 """

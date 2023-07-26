@@ -1,5 +1,5 @@
 # Test your FastAPI endpoints
-# {{ cookiecutter.author_name.lower().replace(' ', '_') }}
+#  {{ cookiecutter.author_name }}
 
 GET http://127.0.0.1:8000/
 Accept: application/json

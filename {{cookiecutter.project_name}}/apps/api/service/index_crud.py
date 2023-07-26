@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :index_crud
 # @Date :2023/7/19 11:25
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc：CRUD
 -------------------------------------------------
 """

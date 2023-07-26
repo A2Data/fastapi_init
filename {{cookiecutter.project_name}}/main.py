@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :main
 # @Date :2023/7/5 18:37
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 入口文件
 -------------------------------------------------
 """

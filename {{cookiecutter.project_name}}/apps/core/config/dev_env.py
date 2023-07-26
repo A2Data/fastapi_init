@@ -4,7 +4,7 @@
 -------------------------------------------------
 # @File :dev_env
 # @Date :2023/7/20 18:17
-# @Author :{{ cookiecutter.author_name.lower().replace(' ', '_') }}
+# @Author : {{ cookiecutter.author_name }}
 # @Desc： 开发环境数据库配置
 -------------------------------------------------
 """
