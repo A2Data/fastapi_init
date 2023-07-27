@@ -19,12 +19,12 @@ APPS_ROOT = os.path.join(BASE_DIR, APP_DIR)
 DEBUG = True
 
 """ 项目说明 """
-TITLE = {{ cookiecutter.title }}
+TITLE =  "{{ cookiecutter.title }} "
 """ 描述 """
-DESCRIPTION = {{ cookiecutter.description }}
+DESCRIPTION = "{{ cookiecutter.description }}"
 
 """系统版本"""
-VERSION = {{ cookiecutter.version }}
+VERSION = "{{ cookiecutter.version }}"
 
 """ 文档地址 """
 DOCS_URL = "/docs"

@@ -1,0 +1,22 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Mr.Feng", email = "a2data@163.com"},
+]
+dependencies = [
+    "uvicorn>=0.23.1",
+    "art>=6.0",
+    "sqlalchemy==1.4.44",
+    "aiosqlite>=0.19.0",
+    "greenlet>=2.0.2",
+    "fastapi>=0.100.0",
+    "loguru>=0.7.0",
+    "orjson==3.9.2",
+    "starlette>=0.27.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+

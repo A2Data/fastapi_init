@@ -63,3 +63,5 @@ cookiecutter https://github.com/A2Data/fastapi_init.git
 
 
 
+## Tests
+![image.png](https://cdn.jsdelivr.net/gh/itdocs-icu/img/img/20230727122139.png)
