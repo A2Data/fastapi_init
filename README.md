@@ -9,8 +9,16 @@ pip install cookiecutter
 
 ## 使用
 
+Github
 ```angular2html
 cookiecutter https://github.com/A2Data/fastapi_init.git
+
+
+```
+
+Gitee:
+```angular2html
+cookiecutter https://gitee.com/DataITems_admin/fastapi_init.git
 ```
 
 ## 结构
