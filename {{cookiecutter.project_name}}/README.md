@@ -1,4 +1,4 @@
-~~# FastAPI-INIT
+# FastAPI-INIT
 
 {{cookiecutter.project_name}}
 
